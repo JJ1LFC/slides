@@ -1,0 +1,16 @@
+{
+  "name": "slides-jj1lfc-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JJ1LFC/slides",
+  "author": "Wataru Ohgai",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "marp -I . -o dist && cpx 'images/**' dist/images"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^3.2.1",
+    "cpx": "^1.5.0"
+  }
+}
