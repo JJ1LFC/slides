@@ -14,7 +14,7 @@ theme: marp
 
 ![](images/230916-apnic-web.png)
 
-<center>OPM の内容に絞ってご紹介します</center>
+<p style="text-align: center;">OPM の内容に絞ってご紹介します</p>
 
 ---
 
@@ -28,6 +28,16 @@ theme: marp
 
 ---
 
+# [prop-148](https://www.apnic.net/community/policy/proposals/prop-148/)
+
+## Leasing of Resources is not Acceptable
+
+(議論を聞きそびれたのであとで追記)
+
+**コンセンサスに至らず**: 新規提案として作り直すべきか?
+
+---
+
 # [prop-152](https://www.apnic.net/community/policy/proposals/prop-152/)
 
 ## Reduce the IPv4 delegation from /23 to /24
@@ -35,6 +45,17 @@ theme: marp
 現在のポリシでは現行のアドレス在庫が枯渇した後に既存メンバには分配しないことになっている．
 提案者は IPv6 実装のためにも IPv4 アドレスは必要だと考えている．
 枯渇後は最大割当サイズを /24 に縮小し継続して再分配しようという提案．
+
+---
+
+# [prop-152](https://www.apnic.net/community/policy/proposals/prop-152/)
+
+## Reduce the IPv4 delegation from /23 to /24
+
+- もう IPv4 は死んだ．ポリシーは不要．
+- 新規参入者の障壁になる
+
+**コンセンサスに至らず**: メーリスでの議論へ
 
 ---
 
@@ -47,6 +68,18 @@ theme: marp
 
 ---
 
+# [prop-153](https://www.apnic.net/community/policy/proposals/prop-153/)
+
+## Proposed changes to PDP
+
+- もっと短くて良いのでは?
+  - 日本などでは翻訳作業などに時間がかかる
+  - JPOPF「タイムラインが決まっていれば間に合わせられる」
+
+**コンセンサスに至らず**: 期間の見直しなどを検討
+
+---
+
 # [prop-154](https://www.apnic.net/community/policy/proposals/prop-154/)
 
 ## Resizing of IPv4 assignment for the IXPs
@@ -56,11 +89,23 @@ theme: marp
 
 ---
 
+# [prop-154](https://www.apnic.net/community/policy/proposals/prop-154/)
+
+## Resizing of IPv4 assignment for the IXPs
+
+---
+
 # [prop-155](https://www.apnic.net/community/policy/proposals/prop-155/)
 
 ## IPv6 PI assignment for associate members
 
 IPv4/IPv6 のどちらのアドレスも持たないアソシエイトメンバに対し，/48 の IPv6 アドレス割当を認める提案．
+
+---
+
+# [prop-155](https://www.apnic.net/community/policy/proposals/prop-155/)
+
+## IPv6 PI assignment for associate members
 
 ---
 
