@@ -93,6 +93,18 @@ theme: marp
 
 ## Resizing of IPv4 assignment for the IXPs
 
+- もう IPv4 は死んだ
+  - それでも IX にはまだ IPv4 がそれなりに必要なこともある
+- それより IPv6 の議論にリソースを割くべきだ
+- リナンバリングは大変な作業
+- IX に必要サイズを計算・提出させて，最初から適切にサイジングするべきでは?
+- そもそも IX は CGNAT のアドレスを使ったらいいのでは?
+  - Global routable address という unique なアドレスが必要
+- /26 しかもらえなくても /24 分の金を払うのか?
+  - EC に料金を見直してもらう必要がある
+
+**コンセンサスに至らず**: メーリスでの議論へ
+
 ---
 
 # [prop-155](https://www.apnic.net/community/policy/proposals/prop-155/)
