@@ -119,11 +119,16 @@ IPv4/IPv6 のどちらのアドレスも持たないアソシエイトメンバ�
 
 ## IPv6 PI assignment for associate members
 
+- 特筆すべきコメント・異論は挙げられず
+
+**コンセンサス**: PDP の次段階へ
+
 ---
 
 # 参考
 
 - [APNIC 56 での IP アドレス・AS 番号分配ポリシーに関する提案のご紹介 - JPNIC Blog](https://blog.nic.ad.jp/2023/9196/)
+- [APNIC 56 に向けた意見交換ミーティング - JPOPF 運営チーム](https://www.jpopf.net/20230830announce?action=AttachFile&do=get&target=20230830-APNIC56%E3%83%9B%E3%82%9A%E3%83%AA%E3%82%B7%E3%83%BC%E6%8F%90%E6%A1%88%E6%84%8F%E8%A6%8B%E4%BA%A4%E6%8F%9B%E8%B3%87%E6%96%99.pdf)
 
 # その他
 
