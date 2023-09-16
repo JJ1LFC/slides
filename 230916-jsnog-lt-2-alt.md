@@ -6,9 +6,11 @@ theme: marp
 
 # APNIC56 を爆速で振り返る
 
-## 慶應義塾大学 大谷亘 a.k.a. alt
+## 慶應義塾大学/WIDE Project/NANOG 大谷亘 a.k.a. alt
 
 2023/09/16 JSNOG-LT-2
+
+※NANOG=NAndemonai Network Operators Group
 
 ---
 
