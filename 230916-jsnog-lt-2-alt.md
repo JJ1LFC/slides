@@ -14,6 +14,22 @@ theme: marp
 
 ---
 
+# 自己紹介
+
+- 名前: 大谷 亘 (Wataru "Alt" Ohgai)
+- サイト: https://blog.jj1lfc.dev
+- 所属:
+  - 慶應義塾大学大学院 政策・メディア研究科 修士課程
+  - WIDE Project
+  - **NANOG** (NAndemonai NOG)
+  - 某一般社団法人
+- 興味
+  - DNS
+  - Email
+  - Security
+
+---
+
 ![](images/230916-apnic-web.png)
 
 <p style="text-align: center;">By-laws reform と OPM の内容に絞ってご紹介します</p>
