@@ -1,6 +1,7 @@
 /* @theme marp */
 
 @import "default";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap");
 
 .split {
   display: table;
@@ -27,5 +28,5 @@
 }
 
 section {
-  font-family: "Noto Sans JP", serif !important;
+  font-family: "Noto Sans JP", sans-serif !important;
 }
