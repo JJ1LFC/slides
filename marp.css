@@ -25,3 +25,7 @@
 .split-right__inner {
   height: 420px;
 }
+
+section {
+  font-family: "Noto Sans JP", serif !important;
+}
