@@ -3,14 +3,14 @@ marp: true
 paginate: true
 theme: marp
 header: "APNIC56 参加報告 | alt<br />国際会議参加支援プログラム報告会"
-footer: "Slides: https://slides.jj1lfc.dev/231001-apnic56-report-alt/"
+footer: "Slides: https://slides.jj1lfc.dev/231031-apnic56-report-alt/"
 ---
 
 # APNIC56 参加報告
 
 ## 慶應義塾大学 大谷亘 alt@sfc.wide.ad.jp
 
-2023/10/00 国際会議参加支援プログラム報告会
+2023/10/31 国際会議参加支援プログラム報告会
 
 ---
 
@@ -58,19 +58,19 @@ footer: "Slides: https://slides.jj1lfc.dev/231001-apnic56-report-alt/"
 
 # Opening Ceremony and Keynotes
 
-![bg fit right:60%](./images/231000-jun.JPG)
+![bg fit right:60%](./images/231031-jun.JPG)
 
 - Welcome remarks
 - Keynote speech
-  - Jun Murai
-  - Youke Kaneko
+  - Jun Mura
+  - Yosuke Kaneko
 
 ---
 
 # Opening Ceremony and Keynotes
 
-![bg right vertical](./images/231000-jun-slide1.png)
-![bg right](./images/231000-jun-slide2.png)
+![bg right vertical](./images/231031-jun-slide1.png)
+![bg right](./images/231031-jun-slide2.png)
 
 ## Public Core Internet
 
@@ -88,7 +88,7 @@ footer: "Slides: https://slides.jj1lfc.dev/231001-apnic56-report-alt/"
 
 # Technical 2
 
-![bg right:60% fit](./images/231000-geoff-slide.png)
+![bg right:60% fit](./images/231031-geoff-slide.png)
 
 ## Goodbye TCP
 
@@ -99,7 +99,7 @@ footer: "Slides: https://slides.jj1lfc.dev/231001-apnic56-report-alt/"
 
 # Technical 4 - JANOG
 
-![bg right:35% fit](./images/231000-speaking-alt.jpg)
+![bg right:35% fit](./images/231031-speaking-alt.jpg)
 
 - JANOG52 NW Team BAKUCHIKU - Overview of Network Construction
 - Next-generation secure public Wi-Fi supporting the digital society and eduroam/OpenRoaming combined deployment in Cityroam
@@ -110,6 +110,8 @@ footer: "Slides: https://slides.jj1lfc.dev/231001-apnic56-report-alt/"
 ---
 
 # 得られた経験と将来への展望
+
+![bg right:40% fit](./images/231031-apnic-voting.png)
 
 ## 国内参加者との交流
 
@@ -125,7 +127,7 @@ footer: "Slides: https://slides.jj1lfc.dev/231001-apnic56-report-alt/"
 
 # 得られた経験と将来への展望
 
-![bg right:40% fit](./images/231000-nanog.jpeg)
+![bg right:40% fit](./images/231031-nanog.jpeg)
 
 - RIR/APNIC の役割に対する基礎的な理解
 - コンセンサスメイキングなどの手法
