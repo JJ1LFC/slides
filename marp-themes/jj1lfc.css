@@ -1,0 +1,18 @@
+/* @theme jj1lfc */
+
+@import 'default';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+section::after {
+  content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+section {
+  font-family: 'Noto Sans JP', sans-serif !important;
+}
