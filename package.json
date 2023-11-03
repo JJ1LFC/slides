@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "marp --html -I . -o dist && marp --html -I ./haskell -o dist/haskell && cpx 'images/**' dist/images && marp --pdf --html --allow-local-files -I . -o dist && marp --pdf --html --allow-local-files -I ./haskell -o dist/haskell && cpx 'pdf-only/**' dist/ "
+    "build": "marp --html -I . -o dist --theme-set ./marp-themes/jj1lfc.css && marp --html -I ./haskell -o dist/haskell --theme-set ./marp-themes/jj1lfc.css && cpx 'images/**' dist/images && marp --pdf --html --allow-local-files -I . -o dist --theme-set ./marp-themes/jj1lfc.css && marp --pdf --html --allow-local-files -I ./haskell -o dist/haskell --theme-set ./marp-themes/jj1lfc.css && cpx 'pdf-only/**' dist/ "
   },
   "dependencies": {
     "@marp-team/marp-cli": "^3.2.1",
