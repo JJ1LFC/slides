@@ -64,7 +64,7 @@ image: https://slides.jj1lfc.dev/231031-apnic56-report-alt.jpg
 
 - Welcome remarks
 - Keynote speech
-  - Jun Mura
+  - Jun Murai
   - Yosuke Kaneko
 
 ---

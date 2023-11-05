@@ -78,7 +78,7 @@ OSI 参照モデルのようなアプローチで
 # Internet Engineering Task Force Open Forum
 
 - IETF の概要，インターネットにおける役割の説明
-- open, bottom-up, laugh consensus
+- open, bottom-up, rough consensus
 - 多様性への対応状況
 - non-tech からの QA など
 
