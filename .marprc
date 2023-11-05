@@ -1,0 +1,7 @@
+allowLocalFiles: true
+author: Wataru "Alt" Ohgai <alt@jj1lfc.dev>
+description: Presentation slides by Alt
+html: true
+inputDir: .
+output: ./dist
+themeSet: ./marp-themes/jj1lfc.css

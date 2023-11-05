@@ -8,11 +8,11 @@
   "private": true,
   "scripts": {
     "build": "yarn build-html && yarn build-image && yarn build-pdf && yarn build-pdf-only && yarn build-ogp",
-    "build-html": "marp --html -I . -o dist --theme-set ./marp-themes/jj1lfc.css",
+    "build-html": "marp",
     "build-image": "cpx 'images/**' dist/images",
-    "build-pdf": "marp --pdf --html --allow-local-files -I . -o dist --theme-set ./marp-themes/jj1lfc.css",
+    "build-pdf": "marp --pdf --html",
     "build-pdf-only": "cpx 'pdf-only/**' dist/",
-    "build-ogp": "marp --image jpeg --allow-local-files -I . -o dist --theme-set ./marp-themes/jj1lfc.css"
+    "build-ogp": "marp --image jpeg"
   },
   "dependencies": {
     "@marp-team/marp-cli": "^3.2.1",
