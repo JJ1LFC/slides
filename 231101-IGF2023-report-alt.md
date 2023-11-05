@@ -2,8 +2,9 @@
 marp: true
 paginate: true
 theme: marp
-header: "IGF2023 参加報告 | alt<br />国際会議参加支援プログラム報告会"
-footer: "Slides: https://slides.jj1lfc.dev/231101-IGF2023-report-alt/"
+header: 'IGF2023 参加報告 | alt<br />国際会議参加支援プログラム報告会'
+footer: 'Slides: https://slides.jj1lfc.dev/231101-IGF2023-report-alt/'
+image: https://slides.jj1lfc.dev/231101-IGF2023-report-alt.jpg
 ---
 
 # IGF2023 参加報告
