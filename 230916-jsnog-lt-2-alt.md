@@ -1,6 +1,7 @@
 ---
 marp: true
 paginate: true
+title: APNIC56 を爆速で振り返る | JSNOG
 theme: marp
 image: https://slides.jj1lfc.dev/230916-jsnog-lt-2-alt.jpg
 ---
