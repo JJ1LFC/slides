@@ -2,7 +2,7 @@
 marp: true
 paginate: true
 title: うちの DNS 権威サーバ | JSNOG
-theme: marp
+theme: jj1lfc
 image: https://slides.jj1lfc.dev/230507-jsnog-lt-1-alt.jpg
 ---
 

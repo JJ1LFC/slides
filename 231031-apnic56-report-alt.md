@@ -1,7 +1,7 @@
 ---
 marp: true
 paginate: true
-theme: marp
+theme: jj1lfc
 title: 'APNIC56 参加報告 | 国際会議参加支援プログラム報告会'
 header: 'APNIC56 参加報告 | alt<br />国際会議参加支援プログラム報告会'
 footer: 'Slides: https://slides.jj1lfc.dev/231031-apnic56-report-alt/'

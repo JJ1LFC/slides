@@ -12,7 +12,7 @@
     "build-image": "cpx 'images/**' dist/images",
     "build-pdf": "marp --pdf --html",
     "build-pdf-only": "cpx 'pdf-only/**' dist/",
-    "build-ogp": "marp --image jpeg"
+    "build-ogp": "marp --image jpeg --html"
   },
   "dependencies": {
     "@marp-team/marp-cli": "^3.2.1",
