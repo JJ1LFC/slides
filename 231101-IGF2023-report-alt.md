@@ -10,8 +10,6 @@ image: https://slides.jj1lfc.dev/231101-IGF2023-report-alt.jpg
 
 # IGF2023 参加報告
 
-![bg right:50%](./images/231101-entrance.jpeg)
-
 ## 慶應義塾大学 大谷亘 alt@sfc.wide.ad.jp
 
 2023/11/01
