@@ -25,6 +25,7 @@ image: https://slides.jj1lfc.dev/index.jpg
 
 ## その他
 
+- [DNS の基礎の基礎](https://slides.jj1lfc.dev/DNS-basics.pdf)
 - [NANOG 言語勉強会 「Haskell 入門」シリーズ](https://slides.jj1lfc.dev/haskell)
 
 ---
