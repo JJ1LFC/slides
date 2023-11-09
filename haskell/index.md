@@ -5,7 +5,7 @@ theme: jj1lfc
 title: 'Haskell 入門シリーズ | NANOG'
 header: 'Haskell 入門シリーズ | NANOG'
 footer: 'Slides: https://slides.jj1lfc.dev/haskell'
-image: https://slides.jj1lfc.dev/haskell.jpg
+image: https://slides.jj1lfc.dev/haskell/index.jpg
 ---
 
 # Haskell 入門シリーズ
