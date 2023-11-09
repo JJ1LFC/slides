@@ -67,6 +67,6 @@ NANOG 言語勉強会
 - すべてのスライドは [CC BY-NC-SA 3.0 deed](https://creativecommons.org/licenses/by-nc-sa/3.0/) ライセンスです．
 - スライド URL は OG・Twitter Card に対応しています．
 - スライド URL 末尾に `.pdf` をつけてリクエストすると
-  PDF ファイルで降ってきます．
+  PDF ファイルで降ってきます (このページを除く)．
 - スライドはすべて [GitHub の JJ1LFC/slides レポジトリ](https://github.com/JJ1LFC/slides)で管理されています．
 - [CodeSandbox を用いた学習環境](https://github.com/nandemonai-nog/learn-haskell)を提供しています．
