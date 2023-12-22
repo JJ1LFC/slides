@@ -8,7 +8,7 @@ image: https://slides.jj1lfc.dev/index.jpg
 
 # [おると](https://blog.jj1lfc.dev/about)のスライド置き場
 
-## 2023
+## 2023 (1)
 
 <div class='columns'>
 <div>
@@ -36,6 +36,10 @@ image: https://slides.jj1lfc.dev/index.jpg
 </div>
 
 ---
+
+## 2023 (2)
+
+- [いろんなインターネット会議に出てみる](https://slides.jj1lfc.dev/231223-wide-inetconf) @ 2312 WIDE 研究会
 
 ## その他
 
