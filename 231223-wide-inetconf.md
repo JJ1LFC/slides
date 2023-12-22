@@ -241,7 +241,7 @@ RIR: ICANN から分割された地域ごとの資源管理を行う組織
 <div>
 
 - 年 1 回ハイブリッド
-  - 2025 年までを予定
+  - 2025 年までを予定 (WSIS+20)
 - Tech:Policy = 1:9 (個人の感想)
 - Meeting 参加は無料
 - Governance of/on the Internet
@@ -265,9 +265,19 @@ RIR: ICANN から分割された地域ごとの資源管理を行う組織
 <div class='columns'>
 <div>
 
+- わかる
+  - 他会議には出てこない広い層の視点
+  - より広い視点から見た tech-community の立ち位置
+  - Governance **on** the Internet
+  - "我々" の思う multistakeholder
+  - 広範な現実世界を動かすヒント
+
 </div>
 <div>
 
+- できる
+  - 主体的な Youth の輪
+  - 現実世界のメジャープレイヤーとの対等な対話
 - Read more...
   - [IGF2023 参加報告書](https://www.nic.ad.jp/ja/materials/fellowship-report/igf2023-ohgai-1.pdf)
   - [IGF2023 参加報告スライド](https://slides.jj1lfc.dev/231101-IGF2023-report-alt)
