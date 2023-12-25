@@ -40,6 +40,7 @@ image: https://slides.jj1lfc.dev/index.jpg
 ## 2023 (2)
 
 - [いろんなインターネット会議に出てみる](https://slides.jj1lfc.dev/231223-wide-inetconf) @ 2312 WIDE 研究会
+- [フェローとして IGF2023 に参加して](https://slides.jj1lfc.dev/231226-IGFreport-alt) @ IGF2023 報告会
 
 ## その他
 
