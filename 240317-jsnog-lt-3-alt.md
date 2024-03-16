@@ -90,7 +90,7 @@ image: https://slides.jj1lfc.dev/240317-jsnog-lt-3-alt.jpg
 
 - だいたい 750-1000 億クエリ/週
 - 2020 年に急増し 2021 年に急減
-  - [Chrome の実装によるもの](https://gigazine.net/news/20200827-google-chrome-omnibox-root-dns/)
+  - [Chromium の実装が原因](https://gigazine.net/news/20200827-google-chrome-omnibox-root-dns/)
 - 漸増傾向
 
 ---
@@ -140,7 +140,7 @@ RCODE の割合
 
 # ITHI Project
 
-ICANN の Identifier Technologies Helth Indicators Project
+ICANN OCTO の Identifier Technologies Helth Indicators Project
 
 - ドメイン名や IP アドレスなどの「健康度」を継続的に計測・記録
 - ルートサーバを含む 13 カテゴリのメトリクス
@@ -155,6 +155,53 @@ ICANN の Identifier Technologies Helth Indicators Project
 ![bg right:60% contain](images/240317-ithi-main.png)
 
 主要なメトリクス
+
+---
+
+## ITHI Project - M3 Metrics
+
+![w:1200](images/240317-ithi-m3.png)
+
+![w:1200](images/240317-ithi-m3.3.png)
+
+---
+
+## ITHI Project - frequently leaked names の例
+
+<div class='columns'>
+<div>
+
+- private domain
+  - `HOME`
+  - `LAN`
+  - `INTERNAL` (※[SAC113](https://blog.nic.ad.jp/2023/9261/))
+  - `LOCALDOMAIN`
+  - `INTRA`
+  - `WORKGROUP`
+
+</div>
+<div>
+
+- 特定言語・実装・ベンダ依存?
+  - `REALTEK`
+  - `UNIFI`
+  - `OPENSTACKLOCAL`
+  - `K8S`
+  - `DLINK`
+  - `PHP`
+  - `TOTOLINK`
+
+</div>
+</div>
+
+---
+
+## ITHI Project - Chromium によるリーク
+
+- 過去最大で 44.46%
+- 現在は 4.45% まで減少
+
+![w:1200](images/240317-ithi-m3.9.png)
 
 ---
 
