@@ -119,10 +119,13 @@ RCODE の割合
 
 # stats.dns.icann.org
 
+![bg right:40% contain](images/240317-imrs-grafana.png)
+
 - L-root (ICANN) の詳細なメトリクス
   - RSSAC002 定義のメトリクス
   - L-root のロケーション
-  - インスタンス・設置都市ごとのメトリクス
+  - インスタンス・設置都市ごとの
+    メトリクス
   - クライアントの国・都市・サブネット などなど...
 - Grafana で提供されている
 
