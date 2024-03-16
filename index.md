@@ -8,6 +8,12 @@ image: https://slides.jj1lfc.dev/index.jpg
 
 # [おると](https://blog.jj1lfc.dev/about)のスライド置き場
 
+## 2024
+
+- [データで見る RSS](https://slides.jj1lfc.dev/240317-jslog-lt-3-alt) @ JSNOG-LT-3
+
+---
+
 ## 2023 (1)
 
 <div class='columns'>
