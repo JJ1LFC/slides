@@ -11,6 +11,7 @@ image: https://slides.jj1lfc.dev/index.jpg
 ## 2024
 
 - [データで見る RSS](https://slides.jj1lfc.dev/240317-jsnog-lt-3-alt) @ JSNOG-LT-3
+- [最近使っているツールたち](https://slides.jj1lfc.dev/240803-24lt-alt/) @ 24 卒超 LT 大会
 
 ---
 
