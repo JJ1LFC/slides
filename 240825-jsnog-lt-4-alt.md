@@ -35,7 +35,7 @@ image: https://slides.jj1lfc.dev/240825-jsnog-lt-4-alt.jpg
   - Apache
   - GPL
   - MIT
-  - ([OSI: Open Source Initiative](https://opensource.org/) ライセンス)
+  - (**[OSI: Open Source Initiative](https://opensource.org/)** ライセンス)
 - 写真・音楽・文章など「作品」でよく使われる
   - **[Creative Commons](https://creativecommons.org/)**
 
