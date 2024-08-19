@@ -2,17 +2,17 @@
 marp: true
 paginate: true
 title: ライセンスの話
-header: 'ライセンスの話 | 24 卒超 LT 大会'
-footer: 'Slides: https://slides.jj1lfc.dev/240803-24lt-alt-2/'
+header: 'ライセンスの話 | JSNOG-LT-4'
+footer: 'Slides: https://slides.jj1lfc.dev/240825-jsnog-lt-4-alt/'
 theme: jj1lfc
-image: https://slides.jj1lfc.dev/240803-24lt-alt-2.jpg
+image: https://slides.jj1lfc.dev/240825-jsnog-lt-4-alt.jpg
 ---
 
 # ライセンスの話
 
 ## 大谷亘 (alt)
 
-2024/08/03 24 卒超 LT 大会
+2024/08/25 JSNOG-LT-4
 
 ---
 
@@ -31,12 +31,79 @@ image: https://slides.jj1lfc.dev/240803-24lt-alt-2.jpg
 
 # 「フリー」のライセンス
 
-- コードなどでよく使われる
+- ソースコードなど「ソフトウェア」でよく使われる
   - Apache
   - GPL
-  - MIT ...
-- 写真・音楽・文章などでよく使われる
+  - MIT
+  - ([OSI: Open Source Initiative](https://opensource.org/) ライセンス)
+- 写真・音楽・文章など「作品」でよく使われる
   - **[Creative Commons](https://creativecommons.org/)**
+
+---
+
+# Open Source とは
+
+## [Open Source Initiative](https://opensource.org/)
+
+カリフォルニアに拠点を置く公益組織 (501(c)3)
+- 「オープンソース」の定義
+- ライセンスの監査
+- ライセンスの保守
+
+多くの OSS のためのライセンスは OSI によって管理・保守されている
+
+---
+
+## [Open Source Definition](https://opensource.org/osd)
+
+[Debian Free Software Guideline](https://www.debian.org/social_contract#guidelines)s から派生・進化
+
+<div class='columns'>
+<div>
+
+1. Free Redistribution
+2. Source Code
+3. Derived Works
+4. Integrity of The Author's Source Code
+5. No Discrimination Against Persons or Groups
+
+</div>
+<div>
+
+6. No Discrimination Against Fields of Endeavor
+7. Distribution of License
+8. License Must Not Be Specific to Product
+9. License Must Not Restrict Other Software
+10. License Must Be Technology-Neutral
+
+</div>
+<div>
+
+---
+
+# 具体的な OSS License
+
+[OSI のサイト](https://opensource.org/licenses)で監査済みのライセンスを検索できる
+有名ドコロだと...
+
+<div class='columns'>
+<div>
+
+- Apache-2.0
+- MIT
+- BSD
+  - BSD-3-Clause
+  - BSD-2-Clause
+
+
+</div>
+<div>
+
+- GPLv3
+- CDDL-1.0
+- MPL-2.0
+- EPL-2.0
+</div></div>
 
 ---
 
