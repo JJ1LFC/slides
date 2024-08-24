@@ -89,20 +89,20 @@ image: https://slides.jj1lfc.dev/240825-jsnog-lt-4-alt.jpg
 <div class='columns'>
 <div>
 
-- Apache-2.0
-- MIT
+- [Apache-2.0](https://opensource.org/license/apache-2-0)
+- [MIT](https://opensource.org/license/mit)
 - BSD
-  - BSD-3-Clause
-  - BSD-2-Clause
+  - [BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
+  - [BSD-2-Clause](https://opensource.org/license/bsd-2-clause)
 
 
 </div>
 <div>
 
-- GPLv3
-- CDDL-1.0
-- MPL-2.0
-- EPL-2.0
+- [GPL-2.0](https://opensource.org/license/gpl-2-0)
+- [CDDL-1.0](https://opensource.org/license/cddl-1-0)
+- [MPL-2.0](https://opensource.org/license/mpl-2-0)
+- [EPL-2.0](https://opensource.org/license/epl-2-0)
 </div></div>
 
 ---
@@ -142,8 +142,8 @@ image: https://slides.jj1lfc.dev/240825-jsnog-lt-4-alt.jpg
 
 1. CC ライセンスを選ぶ - [ここ](https://chooser-beta.creativecommons.org/)から簡単に選べます
 2. 表示を行う
-  1. CC-hoge-fuga などのライセンスタイプもしくはマーク画像を表示
-  2. コモンズ証へのリンクを張る・表示する
+    1. CC-hoge-fuga などのライセンスタイプもしくはマーク画像を表示
+    2. コモンズ証へのリンクを張る・表示する
 
 ---
 

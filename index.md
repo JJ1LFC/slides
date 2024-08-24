@@ -12,7 +12,7 @@ image: https://slides.jj1lfc.dev/index.jpg
 
 - [データで見る RSS](https://slides.jj1lfc.dev/240317-jsnog-lt-3-alt) @ JSNOG-LT-3
 - [最近使っているツールたち](https://slides.jj1lfc.dev/240803-24lt-alt/) @ 24 卒超 LT 大会
-- [ライセンスの話](https://slides.jj1lfc.dev/240803-24lt-alt-2/) @ JSNOG-LT-4
+- [ライセンスの話](https://slides.jj1lfc.dev/240825-jsnog-lt-4-alt/) @ JSNOG-LT-4
 
 ---
 
